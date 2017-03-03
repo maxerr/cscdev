@@ -16,7 +16,7 @@ body {
 
 .full {
 	
-  display: table;
+  
   width: 100%;
   height: auto;
   padding: 100px;
@@ -28,7 +28,7 @@ body {
   background-size: cover;
   -o-background-size: cover;
   min-height: 600px;
-  margin-bottom: 200px;
+  margin-bottom: 10px;
 }
 
 
@@ -78,6 +78,16 @@ body {
   #contact h1{
   	font-size: 44px;
   }
+  .space{
+  	padding-bottom: 50px;
+  }
+  i
+{
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px black;
+  padding: 30px;
+}
  
 
 
